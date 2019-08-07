@@ -42,7 +42,9 @@ def using_shift (array)
     array.delete(string)
   end
   
-    
+  def using_delete_at(array,integer)
+    array.delete(integer)
+  end
     
     
     
