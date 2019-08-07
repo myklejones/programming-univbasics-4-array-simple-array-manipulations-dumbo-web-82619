@@ -31,7 +31,7 @@ def using_shift (array)
   end
   
   def using_uniq(array)
-    array.using_uniq
+    array.uniq
   end
   
   
