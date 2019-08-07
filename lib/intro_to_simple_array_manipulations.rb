@@ -43,7 +43,7 @@ def using_shift (array)
   end
   
   def using_delete_at(array, integer)
-    integer.delete(array)
+    array.delete()
   end
     
     
